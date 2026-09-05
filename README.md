@@ -1,2 +1,22 @@
-# cross-platform-mobile-app-demo
-Interactive mobile-first MVP demo with responsive UX, progress tracking and installable-app structure.
+# Pulse Mobile MVP
+
+> A mobile-first wellness tracker with interactive habit completion and progress.
+
+![Service preview](preview.png)
+
+## Demonstrated capabilities
+
+- Responsive, accessible product interface
+- Realistic representative data and interactive states
+- Clear validation, feedback and empty/success behavior
+- Maintainable source suitable for extension
+
+
+## Run locally
+
+Open `index.html` in a modern browser.
+
+## Portfolio notice
+
+This is an original demonstration project for my freelance service. It is not presented as paid client work. No real credentials, payments, customer records or external AI requests are used.
+
